@@ -1,0 +1,15 @@
+/Users/rileyshimp/Desktop/Ping-Pong/obj/Debug/net5.0/PingPong.csproj.AssemblyReference.cache
+/Users/rileyshimp/Desktop/Ping-Pong/obj/Debug/net5.0/PingPong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rileyshimp/Desktop/Ping-Pong/obj/Debug/net5.0/PingPong.AssemblyInfoInputs.cache
+/Users/rileyshimp/Desktop/Ping-Pong/obj/Debug/net5.0/PingPong.AssemblyInfo.cs
+/Users/rileyshimp/Desktop/Ping-Pong/obj/Debug/net5.0/PingPong.csproj.CoreCompileInputs.cache
+/Users/rileyshimp/Desktop/Ping-Pong/bin/Debug/net5.0/PingPong.deps.json
+/Users/rileyshimp/Desktop/Ping-Pong/bin/Debug/net5.0/PingPong.runtimeconfig.json
+/Users/rileyshimp/Desktop/Ping-Pong/bin/Debug/net5.0/PingPong.runtimeconfig.dev.json
+/Users/rileyshimp/Desktop/Ping-Pong/bin/Debug/net5.0/PingPong.dll
+/Users/rileyshimp/Desktop/Ping-Pong/bin/Debug/net5.0/ref/PingPong.dll
+/Users/rileyshimp/Desktop/Ping-Pong/bin/Debug/net5.0/PingPong.pdb
+/Users/rileyshimp/Desktop/Ping-Pong/obj/Debug/net5.0/PingPong.dll
+/Users/rileyshimp/Desktop/Ping-Pong/obj/Debug/net5.0/ref/PingPong.dll
+/Users/rileyshimp/Desktop/Ping-Pong/obj/Debug/net5.0/PingPong.pdb
+/Users/rileyshimp/Desktop/Ping-Pong/obj/Debug/net5.0/PingPong.genruntimeconfig.cache
